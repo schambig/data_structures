@@ -2,7 +2,6 @@
 
 /**
  * binary_tree_node - Create a binary tree node
- * hola holbies
  * @parent: Pointer to the parent
  * @value: Value to put in the new node
  * Return: Pointer to the new node, NULL on failure

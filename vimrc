@@ -36,3 +36,12 @@ let mapleader=" "
 
 nmap <Leader>s <Plug>(easymotion-s2)
 nmap <Leader>nt :NERDTreeFind<CR>
+
+" bash aliases
+"
+" alias v='nvim'
+" alias a='git add'
+" alias c='git commit -m'
+" alias p='git push'
+" alias s='git status'
+"
